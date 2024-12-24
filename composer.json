@@ -1,5 +1,6 @@
 {
     "name": "graweb/apidoc",
+    "version": "1.0.1",
     "description": "API Documentation",
     "keywords": [
         "laravel",
@@ -18,7 +19,9 @@
     "authors": [
         {
             "name": "Gustavo Grativol",
-            "email": "graweb1@gmail.com"
+            "email": "graweb1@gmail.com",
+            "homepage": "https://github.com/graweb",
+            "role": "Developer"
         }
     ],
     "require": {},
@@ -29,7 +32,6 @@
             ]
         }
     },
-    "version": "1.0.0",
     "minimum-stability": "stable",
     "prefer-stable": true
 }

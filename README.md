@@ -1,6 +1,10 @@
 ## Instalação
 
+### Tente com
 - composer require graweb/apidoc
+
+### Se não funcionar, tente com
+- composer require graweb/apidoc:*@dev
 
 ## Instruções
 
