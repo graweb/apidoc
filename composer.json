@@ -1,0 +1,25 @@
+{
+    "name": "graweb/apidoc",
+    "description": "API Documentation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Graweb\\Apidoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Grativol",
+            "email": "graweb1@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Graweb\\Apidoc\\ApiDocServiceProvider"
+            ]
+        }
+    }
+}
