@@ -1,6 +1,6 @@
 {
     "name": "graweb/apidoc",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "API Documentation",
     "keywords": [
         "laravel",
@@ -24,7 +24,10 @@
             "role": "Developer"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=8.1",
+        "laravel/framework": ">=9.0"
+    },
     "extra": {
         "laravel": {
             "providers": [
