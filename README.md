@@ -1,6 +1,6 @@
 ## Instalação
 
-- composer require graweb-apidoc
+- composer require graweb/apidoc
 
 ## Instruções
 
